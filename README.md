@@ -34,4 +34,5 @@ This repository contains assignments, and the following tools and technologies a
       - Reversing a string through recursive calls.
      
 ## Files
-        
+- https://github.com/ModassirQuaisar/AENEXZ-Assignment-/blob/master/Aenexz_Assignment1.ipynb
+- https://github.com/ModassirQuaisar/AENEXZ-Assignment-/blob/master/Aenexz_Assignment_2.ipynb
