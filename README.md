@@ -1,10 +1,11 @@
 # Python Assignment
 
 This repository contains assignments, and the following tools and technologies are primarily utilized:
-- Programming Languages: Basic Python, NumPy, Pandas
+- Programming Languages: Basic Python, NumPy.
 - Environment: Jupyter Notebook.
 
- ## Topics Covered 
+ # Topics Covered
+   ## Python Basics
 
  - Foundational Programming Concepts.
    - Input/Output & Basic Operations: Calculating area based on user-defined parameters like radius.
@@ -32,6 +33,15 @@ This repository contains assignments, and the following tools and technologies a
     - Recursion:
       - Calculating the $n^{th}$ Fibonacci number.
       - Reversing a string through recursive calls.
+# Numpy Basics
+- Array Aggregation:
+  - Calculating the total sum of elements within an array using np.sum() and determining the maximum element within an array using np.max().
+ - Array Dimensions:
+   - Using the .shape attribute to identify the structure (rows and columns) of a multi-dimensional array.
+ - Vectorized Operations:
+   - Performing element-wise addition between two arrays
+ - Data Characteristics:
+   - Inspecting and identifying the data type
      
 ## Files
 - https://github.com/ModassirQuaisar/AENEXZ-Assignment-/blob/master/Aenexz_Assignment1.ipynb
