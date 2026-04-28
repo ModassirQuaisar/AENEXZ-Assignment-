@@ -1,7 +1,7 @@
 # Python Assignment
 
 This repository contains assignments, and the following tools and technologies are primarily utilized:
-- Programming Languages: Basic Python
+- Programming Languages: Basic Python, NumPy, Pandas
 - Environment: Jupyter Notebook.
 
  ## Topics Covered 
